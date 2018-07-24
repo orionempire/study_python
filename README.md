@@ -1,5 +1,6 @@
 My personal python tutorial extensions
 ======================================
+All projects are stored as branches indexed from this file. 
 
 O'Reilly Lightweight Django
 --------------------------------------
