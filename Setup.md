@@ -1,5 +1,3 @@
-#### Notes
-   Original repository ->  https://github.com/lightweightdjango/examples
 
 #### First time pre-steps
 ```text
