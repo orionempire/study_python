@@ -16,5 +16,5 @@ O'Reilly Lightweight Django
 Django Website Tutorial
 --------------------------------------
 #### Original repository
-    https://docs.djangoproject.com/en/2.0/intro/tutorial01/
-* [Django 2.0](https://github.com/orionempire/study_python/django_tut_2_0/Setup.md)
+    https://docs.djangoproject.com/en/2.1/intro/tutorial01/
+* [Django 2.1](https://github.com/orionempire/study_python/django_tut_2_1/Setup.md)
