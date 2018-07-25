@@ -20,3 +20,9 @@ Django Website Tutorial
     https://docs.djangoproject.com/en/2.1/intro/tutorial01/
 * [Django 2.1](https://github.com/orionempire/study_python/tree/django_tut_2_1/)
 
+Programing in Python 3
+--------------------------------------
+    http://www.qtrac.eu/py3book.html
+#### Book Website
+* [Python 3.0](https://github.com/orionempire/study_python/tree/programming_in_python_3_0/)
+* [Python 3.1](https://github.com/orionempire/study_python/tree/programming_in_python_3_1/)
